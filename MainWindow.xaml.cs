@@ -47,7 +47,6 @@ namespace MatchingGameCore
                 string nextEmoji = animalEmoji[index];
                 textBlock.Text = nextEmoji;
                 animalEmoji.RemoveAt(index);
-
             }
 
 
