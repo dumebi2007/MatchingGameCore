@@ -46,6 +46,7 @@ namespace MatchingGameCore
                 timer.Stop();
                 timeTextBlock.Text = timeTextBlock.Text + " - Play again?";
             }
+
         }
 
         private void SetUpGame()
